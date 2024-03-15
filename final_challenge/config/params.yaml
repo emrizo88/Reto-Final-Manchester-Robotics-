@@ -1,0 +1,21 @@
+setpoint_node:
+  ros__parameters:
+    signal_type: 0
+    default:
+      amplitude: 1.0
+      frequency: 0.05
+      offset: 0.0
+      phase: 0.0
+      time: 0.0
+    square:
+      amplitude: 1.0
+      frequency: 0.05
+      offset: 0.0
+      phase: 0.0
+      time: 0.0
+    sawtooth:
+      amplitude: 1.0
+      frequency: 0.05
+      offset: 0.0
+      phase: 0.0
+      time: 0.0

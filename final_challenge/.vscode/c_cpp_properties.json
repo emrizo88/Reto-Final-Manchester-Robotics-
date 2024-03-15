@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/emilio/ros2_ws/install/signal_msg/include/**",
+        "/home/emilio/ros2_utilities_ws/install/micro_ros_agent/include/**",
+        "/home/emilio/ros2_utilities_ws/install/micro_ros_msgs/include/**",
+        "/home/emilio/dev_ws/install/xarm_planner/include/**",
+        "/home/emilio/dev_ws/install/xarm_gazebo/include/**",
+        "/home/emilio/dev_ws/install/xarm_controller/include/**",
+        "/home/emilio/dev_ws/install/xarm_api/include/**",
+        "/home/emilio/dev_ws/install/xarm_msgs/include/**",
+        "/home/emilio/dev_ws/install/realsense_gazebo_plugin/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

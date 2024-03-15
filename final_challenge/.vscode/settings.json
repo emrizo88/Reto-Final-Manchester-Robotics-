@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/emilio/ros2_ws/install/signal_msg/local/lib/python3.10/dist-packages",
+        "/home/emilio/ros2_ws/install/reto2/lib/python3.10/site-packages",
+        "/home/emilio/ros2_ws/install/final_challenge/lib/python3.10/site-packages",
+        "/home/emilio/ros2_ws/install/courseworks/lib/python3.10/site-packages",
+        "/home/mcr2/ros2_ws/build/basic_comms_params",
+        "/home/emilio/ros2_ws/install/basic_comms_params/lib/python3.10/site-packages",
+        "/home/mcr2/ros2_ws/build/basic_comms",
+        "/home/emilio/ros2_ws/install/basic_comms/lib/python3.10/site-packages",
+        "/home/emilio/ros2_utilities_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/emilio/dev_ws/install/xarm_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/emilio/ros2_ws/install/signal_msg/local/lib/python3.10/dist-packages",
+        "/home/emilio/ros2_ws/install/reto2/lib/python3.10/site-packages",
+        "/home/emilio/ros2_ws/install/final_challenge/lib/python3.10/site-packages",
+        "/home/emilio/ros2_ws/install/courseworks/lib/python3.10/site-packages",
+        "/home/mcr2/ros2_ws/build/basic_comms_params",
+        "/home/emilio/ros2_ws/install/basic_comms_params/lib/python3.10/site-packages",
+        "/home/mcr2/ros2_ws/build/basic_comms",
+        "/home/emilio/ros2_ws/install/basic_comms/lib/python3.10/site-packages",
+        "/home/emilio/ros2_utilities_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/home/emilio/dev_ws/install/xarm_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
